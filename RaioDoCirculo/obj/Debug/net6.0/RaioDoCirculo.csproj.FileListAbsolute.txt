@@ -1,0 +1,15 @@
+C:\temp\projetos\RaioDoCirculo\RaioDoCirculo\bin\Debug\net6.0\RaioDoCirculo.exe
+C:\temp\projetos\RaioDoCirculo\RaioDoCirculo\bin\Debug\net6.0\RaioDoCirculo.deps.json
+C:\temp\projetos\RaioDoCirculo\RaioDoCirculo\bin\Debug\net6.0\RaioDoCirculo.runtimeconfig.json
+C:\temp\projetos\RaioDoCirculo\RaioDoCirculo\bin\Debug\net6.0\RaioDoCirculo.dll
+C:\temp\projetos\RaioDoCirculo\RaioDoCirculo\bin\Debug\net6.0\RaioDoCirculo.pdb
+C:\temp\projetos\RaioDoCirculo\RaioDoCirculo\obj\Debug\net6.0\RaioDoCirculo.csproj.AssemblyReference.cache
+C:\temp\projetos\RaioDoCirculo\RaioDoCirculo\obj\Debug\net6.0\RaioDoCirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\RaioDoCirculo\RaioDoCirculo\obj\Debug\net6.0\RaioDoCirculo.AssemblyInfoInputs.cache
+C:\temp\projetos\RaioDoCirculo\RaioDoCirculo\obj\Debug\net6.0\RaioDoCirculo.AssemblyInfo.cs
+C:\temp\projetos\RaioDoCirculo\RaioDoCirculo\obj\Debug\net6.0\RaioDoCirculo.csproj.CoreCompileInputs.cache
+C:\temp\projetos\RaioDoCirculo\RaioDoCirculo\obj\Debug\net6.0\RaioDoCirculo.dll
+C:\temp\projetos\RaioDoCirculo\RaioDoCirculo\obj\Debug\net6.0\refint\RaioDoCirculo.dll
+C:\temp\projetos\RaioDoCirculo\RaioDoCirculo\obj\Debug\net6.0\RaioDoCirculo.pdb
+C:\temp\projetos\RaioDoCirculo\RaioDoCirculo\obj\Debug\net6.0\RaioDoCirculo.genruntimeconfig.cache
+C:\temp\projetos\RaioDoCirculo\RaioDoCirculo\obj\Debug\net6.0\ref\RaioDoCirculo.dll
